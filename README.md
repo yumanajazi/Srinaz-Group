@@ -1,2 +1,3 @@
 # Srinaz-Group
-E-commerce website for my business.
+E-commerce website for my Idea(website).
+
